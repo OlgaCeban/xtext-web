@@ -2,6 +2,7 @@
  * Configuration for projects with default layout (src/main/java etc.)
  */
 
+//new changes
 ext.eclipseProjectLayout = false
 
 sourceSets {
