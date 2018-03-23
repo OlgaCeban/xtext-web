@@ -1,4 +1,5 @@
 rootProject.name = 'xtext-web'
+//new com
 
 include 'org.eclipse.xtext.web'
 include 'org.eclipse.xtext.xbase.web'
